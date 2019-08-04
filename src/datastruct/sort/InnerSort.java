@@ -88,16 +88,60 @@ public class InnerSort {
     //最坏和平均时间复杂度为O(n*n) 空间复杂度为O(1)
     //当序列初始有序时只需要n-1次比较故时间复杂度为O(n)
     //5.快速排序
-    public  static  int [] fastSort(int [] arr){
-        return  arr;
+    public  static  void  fastSort(int [] arr ,int low,int high){
+        int pivot;
+        if(low < high)//直到只有一个元素为止（递归出口），千万不要用while
+        {
+            pivot = Partition(arr, low, high);
+            fastSort(arr, low, pivot - 1);
+            fastSort(arr, pivot + 1, high);
+        }
+    //不要有返回值
     }
+   //划分操作
+    private static int Partition(int[] arr, int low, int high) {
+        int pivot = arr[low];
+        while (low<high) {
+            while (low<high&&pivot <= arr[high]) high--;//为防止high越界为负值，加判断条件
+            arr[low] = arr[high];
+            while (low<high&&pivot >= arr[low]) low++;//为防止low越界超过数组长度，加判断条件
+            arr[high] = arr[low];
+
+        }
+        arr[low]=pivot;//注意必须要填上枢轴元素这个时候low和high是相等的
+        return  low;
+    }
+    //快排最好和平均时间复杂度为O(n*log(n)) 最坏时间复杂度为O(n*n)
+    //快排空间复杂度平均为O(log(n)) 最坏为O(n)
+    //快排平均时间复杂度接近于最佳时间复杂度，故快速排序是内部排序中性能最优的算法
+    //每一步划分越对称,时间空间消耗越少
+
+
     /*
      **选择类
      */
     //6.简单选择排序
-    public  static  int [] simpleSelectSort(int [] arr){
-        return  arr;
+    public static int[] simpleSelectSort(int[] arr) {
+        int min;
+        for (int i = 0; i < arr.length - 1; i++) {
+            min = i;
+            for (int j = i + 1; j < arr.length; j++) {
+                if (arr[min] > arr[j]) {
+                    min = j;
+                }
+            }
+            if (min != i) {
+                int temp = arr[i];
+                arr[i] = arr[min];
+                arr[min] = temp;
+            }
+        }
+
+        return arr;
     }
+    //空间复杂度为O(1)
+    //最好、平均、最坏时间复杂度都是O(n*n),取决于比较次数n(n-1)/2,元素移动次数小于3*(n-1)
+    //简单选择排序与序列初始状态无关
     //7.堆排序
     public  static  int [] heapSelectSort(int [] arr){
         return  arr;
@@ -139,6 +183,10 @@ public class InnerSort {
         printArr(maopaoSort(arr));
         arr=init_arr.clone();
         System.out.print("快速排序：");
-        printArr(fastSort(arr));
+        fastSort(arr,0,arr.length-1);
+        printArr(arr);
+        arr=init_arr.clone();
+        System.out.print("简单选择排序：");
+        printArr(simpleSelectSort(arr));
     }
 }
