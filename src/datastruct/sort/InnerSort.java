@@ -143,9 +143,49 @@ public class InnerSort {
     //最好、平均、最坏时间复杂度都是O(n*n),取决于比较次数n(n-1)/2,元素移动次数小于3*(n-1)
     //简单选择排序与序列初始状态无关
     //7.堆排序
-    public  static  int [] heapSelectSort(int [] arr){
-        return  arr;
+    //堆排序用到完全二叉树顺序存储L[1...n]几个性质：
+    //(1)左孩子节点2*i(2)右孩子节点等于2*i+1(3)最后一个非叶子节点序号为n/2
+    //注意数组下标必须从1开始
+
+
+    public  static  int [] heapSelectSort(int [] arr,int start,int length){
+        //初始化大根堆，arr[0]用作辅助空间位
+
+        //从n/2往上调整
+        for (int i =length/2; i >=start ; i--) {
+            AdjustDown(arr,i,length);
+        }
+        //排序并保存排序结果
+        int k=length-1;
+        int [] result=new int[length];//保存排序输出结果
+        for(int i=length;i>=1;i--)//为了保存结果所以运行了n次，实际上只需要运行n-1次
+        {
+            result[k]=arr[1];
+            arr[1]=arr[i];
+            AdjustDown(arr,1,i-1);
+            k--;//更新存储结果下标
+        }
+        return  result;
     }
+//向下调整算法
+    private static void AdjustDown(int[] arr, int i, int length) {
+        //i表示要调整的根节点
+         arr[0]=arr[i];
+        for (int j = 2*i; j <=length ; j*=2) {
+             if(j<length&&arr[j]<arr[j+1]) j++;//若j=length必须判断是否越界
+             if(arr[0]>=arr[j]) break;
+             else
+             {
+                 arr[i]=arr[j];
+                 i=j;
+             }
+        }
+        arr[i]=arr[0];//将调整元素放回一轮向下调整最终位置
+    }
+    //空间复杂度为O(1)
+    //最佳、平均、最差时间复杂度都为nlogn
+    //建堆时间复杂度为O(n) 每次向下调整时间复杂度为O(logn)
+
     /*
      **归并类
      */
@@ -154,7 +194,7 @@ public class InnerSort {
         return arr;
     }
     /*
-     **非比较类
+     **非比较类排序
      */
     //9.基数排序
     public  static  int [] baseNumSort(int [] arr) {
@@ -188,5 +228,8 @@ public class InnerSort {
         arr=init_arr.clone();
         System.out.print("简单选择排序：");
         printArr(simpleSelectSort(arr));
+        int [] heap_arr={0,5,3,1,4,2,10,7,9,12,11};//heap_arr[0]是辅助位
+        System.out.print("堆选择排序：");
+        printArr(heapSelectSort(heap_arr,1,10));
     }
 }
