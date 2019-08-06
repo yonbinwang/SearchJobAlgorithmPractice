@@ -1,5 +1,7 @@
 package datastruct.sort;
 
+
+
 public class InnerSort {
     /*
     注意所有排序都未使用哨兵位减小边界判断
@@ -189,10 +191,38 @@ public class InnerSort {
     /*
      **归并类
      */
-    //8.归并排序
-    public  static  int [] mergeSort(int [] arr) {
-        return arr;
+    //8.2-路归并排序
+    //递归过程与快排相同（基于分治法）但是每次多一步合并
+    public  static  void mergeSort(int [] arr,int low,int high) {
+        int mid;
+        if(low<high){//只有一个元素时递归的出口
+            mid=(low+high)/2;
+            mergeSort(arr,low,mid);
+            mergeSort(arr,mid+1,high);
+            Merge(arr,low,mid,high);
+            }
+
     }
+
+    private static void Merge(int[] arr, int low, int mid, int high) {
+        int []arr_clone=arr.clone();//辅助空间复制原表元素,必须与原表等长
+        int i,j,k;
+        for(i=low,j=mid+1,k=low;i<=mid&&j<=high;k++)//注意这个时递归程序k一定不能写成0，必须写成等于low
+            if(arr_clone[i]<arr_clone[j]) {
+                arr[k] = arr_clone[i];
+                i++;
+            }
+            else {
+                arr[k] = arr_clone[j];
+                j++;
+            }
+
+            while (i<=mid) arr[k++]=arr_clone[i++];
+            while (j<=high) arr[k++]=arr_clone[j++];
+    }
+    //归并排序需要辅助数组，故空间复杂度为O(n)
+    //时间复杂度，每一趟归并时间复杂度为O(n),完成排序需要进行O(logn)趟归并，故时间平均最好最坏时间复杂度为O(nlogn)
+    //2-路归并排序是稳定的排序
     /*
      **非比较类排序
      */
@@ -211,6 +241,8 @@ public class InnerSort {
     public static void main(String[] args) {
         int [] arr;
         arr=init_arr.clone();
+        System.out.print("原无序序列：");
+        printArr(arr);
         System.out.print("直接插入排序：");
         printArr(directInsertSort(arr));
         System.out.print("折半插入排序：");
@@ -231,5 +263,9 @@ public class InnerSort {
         int [] heap_arr={0,5,3,1,4,2,10,7,9,12,11};//heap_arr[0]是辅助位
         System.out.print("堆选择排序：");
         printArr(heapSelectSort(heap_arr,1,10));
+        arr=init_arr.clone();
+        System.out.print("归并排序：");
+        mergeSort(arr,0,arr.length-1);
+        printArr(arr);
     }
 }
