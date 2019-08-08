@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fcbc195-9bae-489a-b783-6ce26df58bde" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_22.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JianZhiOffer/datastruct/sort/InnerSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/datastruct/sort/InnerSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastruct/sort/InnerSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastruct/sort/InnerSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,39 +19,12 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JZ_Offer_20.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_20.java">
+    <leaf>
+      <file leaf-file-name="JZ_Offer_22.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_22.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InnerSort.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/datastruct/sort/InnerSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="205" lean-forward="true" selection-start-line="205" selection-end-line="205" />
-              <folding>
-                <element signature="e#5887#5888#0" expanded="true" />
-                <element signature="e#5913#5914#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JZ_Offer_21.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_21.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#248#257#0" expanded="true" />
-                <element signature="e#375#385#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="182">
+              <caret line="7" column="65" lean-forward="true" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -122,6 +93,7 @@
         <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_20.java" />
         <option value="$PROJECT_DIR$/src/datastruct/sort/InnerSort.java" />
         <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_21.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_22.java" />
       </list>
     </option>
   </component>
@@ -148,6 +120,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,9 +153,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InnerSort">
+  <component name="RunManager" selected="Application.JZ_Offer_22">
     <configuration name="CallableThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javastudy.test.CallableThreadTest" />
       <module name="JianZhiOffer" />
@@ -241,8 +213,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="JavaStudyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhioffer.lx.JavaStudyTest" />
+    <configuration name="JZ_Offer_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhioffer.lx.JZ_Offer_22" />
       <module name="JianZhiOffer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -316,19 +288,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.JavaStudyTest" />
       <item itemvalue="Application.ThreadClassDemo" />
       <item itemvalue="Application.CallableThreadTest" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.InnerSort" />
+      <item itemvalue="Application.JZ_Offer_22" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JZ_Offer_22" />
         <item itemvalue="Application.InnerSort" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.CallableThreadTest" />
         <item itemvalue="Application.ThreadClassDemo" />
-        <item itemvalue="Application.JavaStudyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -360,12 +332,13 @@
       <workItem from="1564813673693" duration="10279000" />
       <workItem from="1564917867601" duration="4313000" />
       <workItem from="1564997834682" duration="8024000" />
-      <workItem from="1565083621885" duration="7928000" />
+      <workItem from="1565083621885" duration="8067000" />
+      <workItem from="1565266242996" duration="6351000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101962000" />
+    <option name="totallyTimeSpent" value="108452000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -378,7 +351,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32897604" />
@@ -390,11 +362,11 @@
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49946696" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49946696" weight="0.3293348" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.29317698" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.29637527" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -402,12 +374,12 @@
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3991276" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32897604" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32897604" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
     </layout>
   </component>
@@ -432,7 +404,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="27" />
+      <option name="time" value="28" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -441,14 +413,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib" />
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/xxx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JianZhiOffer.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -767,13 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_21.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -790,10 +747,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="205" lean-forward="true" selection-start-line="205" selection-end-line="205" />
-          <folding>
-            <element signature="e#5887#5888#0" expanded="true" />
-            <element signature="e#5913#5914#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="3597" column="7" lean-forward="true" selection-start-line="3597" selection-start-column="7" selection-end-line="3597" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="65" lean-forward="true" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
         </state>
       </provider>
     </entry>
