@@ -193,19 +193,17 @@ public class InnerSort {
      */
     //8.2-路归并排序
     //递归过程与快排相同（基于分治法）但是每次多一步合并
-    public  static  void mergeSort(int [] arr,int low,int high) {
+    public  static  void mergeSort(int [] arr,int low,int high,int [] arr_clone) {
         int mid;
-        if(low<high){//只有一个元素时递归的出口
+        if(low<high){//只有一个元素时递归的出口,注意不是循环
             mid=(low+high)/2;
-            mergeSort(arr,low,mid);
-            mergeSort(arr,mid+1,high);
-            Merge(arr,low,mid,high);
+            mergeSort(arr,low,mid,arr_clone);
+            mergeSort(arr,mid+1,high,arr_clone);
+            Merge(arr,low,mid,high,arr_clone);
             }
-
     }
 
-    private static void Merge(int[] arr, int low, int mid, int high) {
-        int []arr_clone=arr.clone();//辅助空间复制原表元素,必须与原表等长
+    private static void Merge(int[] arr, int low, int mid, int high,int [] arr_clone) {
         int i,j,k;
         for(i=low,j=mid+1,k=low;i<=mid&&j<=high;k++)//注意这个时递归程序k一定不能写成0，必须写成等于low
             if(arr_clone[i]<arr_clone[j]) {
@@ -216,9 +214,13 @@ public class InnerSort {
                 arr[k] = arr_clone[j];
                 j++;
             }
-
             while (i<=mid) arr[k++]=arr_clone[i++];
             while (j<=high) arr[k++]=arr_clone[j++];
+        while(low<=high)//将每次归并排序结果复制进入辅助数组
+        {
+            arr_clone[low]=arr[low];
+            low+=1;
+        }
     }
     //归并排序需要辅助数组，故空间复杂度为O(n)
     //时间复杂度，每一趟归并时间复杂度为O(n),完成排序需要进行O(logn)趟归并，故时间平均最好最坏时间复杂度为O(nlogn)
@@ -265,7 +267,7 @@ public class InnerSort {
         printArr(heapSelectSort(heap_arr,1,10));
         arr=init_arr.clone();
         System.out.print("归并排序：");
-        mergeSort(arr,0,arr.length-1);
+        mergeSort(arr,0,arr.length-1,arr.clone());
         printArr(arr);
     }
 }

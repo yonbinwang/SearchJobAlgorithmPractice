@@ -25,7 +25,7 @@ public class JZ_Offer_22 {
     }
 
     public static void main(String[] args) {
-        int [] x={2,5,4,8,10,9,6};
+        int [] x={2,5,4,8,10,9};
         System.out.println(VerifySquenceOfBST(x));
 
         }

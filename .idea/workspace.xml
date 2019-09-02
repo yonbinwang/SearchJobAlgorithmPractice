@@ -1,9 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/javastudy/test/TestCallable.java" line="28" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1fcbc195-9bae-489a-b783-6ce26df58bde" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ByteDance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javastudy/test/Abstrict$Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javastudy/test/InnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javastudy/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javastudy/test/ParaTranTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javastudy/test/TestCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javastudy/test/TestDefaultMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pufashangji/PuFaShangJi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JianZhiOffer/datastruct/sort/InnerSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/datastruct/sort/InnerSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JianZhiOffer/javastudy/test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/javastudy/test/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JianZhiOffer/jianzhioffer/lx/JZ_Offer_22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/jianzhioffer/lx/JZ_Offer_22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastruct/sort/InnerSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastruct/sort/InnerSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javastudy/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javastudy/test/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_22.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,12 +51,30 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="JZ_Offer_22.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_22.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="InnerSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastruct/sort/InnerSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="214" column="20" lean-forward="true" selection-start-line="214" selection-start-column="20" selection-end-line="214" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JZ_Offer_38.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_38.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JZ_Offer_37.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_37.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="182">
-              <caret line="7" column="65" lean-forward="true" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -41,9 +91,14 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>package jianzhioffer\.lx\;\n\/\*\*\n\*\@author    yonbinwang\n\*\@date  2019年7月10日下午10\:05\:41\n\*\@problem\n\*\@answer\n\*\@action\n\*\/\npublic class JZ_Offer_1 \{\n\	\/\/穷举法\n\	public boolean Find\(int target\, int \[\]\[\] array\) \{\n\	     int lines\=array\.length\;\n\	     int cols\=array\[0\]\.length\;\n\	     for \(int i\=0\;i\&lt;lines\;i\+\+\)\n\	       for\(int j\=0\;j\&lt;cols\;j\+\+\)\n\	       \{\n\	    \	   if\(array\[i\]\[j\]\=\=target\)\n\	    \	   \{\n\	    \	\	   return true\;\n\	    \	   \}\n\	       \}\n\	        return false\;\n\	    \}\n\	\/\/对行或列进行二分查找\n\	public boolean Find2\(int target\, int\[\]\[\] array\) \{\n\	\	int lines \= array\.length\;\n\	\	int high\;\n\	\	int low\;\n\	\	int mid\;\n\	\	for \(int i \= 0\; i \&lt; lines\; i\+\+\) \{\n\	\	\	high \= array\[0\]\.length \- 1\;\n\	\	\	low \= 0\;\n\	\	\	while \(low \&lt; high\) \{\n\	\	\	\	mid \= \(low \+ high\) \/ 2\;\n\	\	\	\	if \(target\&gt;array\[i\]\[mid\]\) \n                      low\=mid\+1\;\n\	\	\	\	\n\	\	\	\	else if\(target\&lt;array\[i\]\[mid\]\)\n\	\	\	\	\	high\=mid\-1\;\n\	\	\	\	else\n\	\	\	\	\	return true\;\n\	\	\	\}\n\	\	\}\n\	\	return false\;\n\	\}\npublic static void main\(String\[\] args\) \{\n\	System\.out\.println\(2\/3\)\;\n\}\n\}\n\	\n\n</find>
+      <find />
       <find>tostring()</find>
-      <find>private static int Partition\(int\[\] arr\, int low\, int high\) \{\n        int pivot\=arr\[low\]\;\n        while \(\)\{\n        while \(pivot\&lt;\=arr\[high\]\) high\+\+\;\n        arr\[low\]\=arr\[high\]\;\n        while \(pivot\&gt;arr\[low\]\) low\+\+\;\n        arr\[high\]\=arr\[low\]\;\n        return  pivot\;\n    \}</find>
+      <find />
+      <find>FutureTask</find>
+      <find>parent</find>
+      <find>paren</find>
+      <find>findClass</find>
+      <find>defineClass</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -52,22 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_1.java" />
-        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_4.java" />
-        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_2.java" />
-        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_5.java" />
-        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_6.java" />
-        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_7.java" />
-        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/test.java" />
-        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/xxx" />
-        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_8.java" />
-        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_9.java" />
-        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_11.java" />
-        <option value="$PROJECT_DIR$/src/java/study/test/A.java" />
-        <option value="$PROJECT_DIR$/src/javastudy/test/A.java" />
-        <option value="$PROJECT_DIR$/src/javastudy/test/test_peoperties.java" />
-        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_10.java" />
-        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_12.java" />
         <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_13.java" />
         <option value="$PROJECT_DIR$/src/javastudy/test/TestCollection.java" />
         <option value="$PROJECT_DIR$/src/javastudy/test/Test_Swap.java" />
@@ -89,11 +128,36 @@
         <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_17.java" />
         <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_18.java" />
         <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_19.java" />
-        <option value="$PROJECT_DIR$/src/javastudy/test/test.java" />
         <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_20.java" />
-        <option value="$PROJECT_DIR$/src/datastruct/sort/InnerSort.java" />
         <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_21.java" />
         <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_22.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_23.java" />
+        <option value="$PROJECT_DIR$/src/javastudy/test/TestDefaultMethod.java" />
+        <option value="$PROJECT_DIR$/src/javastudy/test/AbstrictClass.java" />
+        <option value="$PROJECT_DIR$/src/javastudy/test/ParaTranTest.java" />
+        <option value="$PROJECT_DIR$/src/javastudy/test/InnerClassTest.java" />
+        <option value="$PROJECT_DIR$/src/javastudy/test/TestCallable.java" />
+        <option value="$PROJECT_DIR$/src/pufashangji/PuFaShangJi.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_24.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_25.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_26.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_27.java" />
+        <option value="$PROJECT_DIR$/src/javastudy/test/test.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/Main.java" />
+        <option value="$PROJECT_DIR$/src/javastudy/test/Main.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_28.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_29.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_30.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_31.java" />
+        <option value="$PROJECT_DIR$/src/ByteDance.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_32.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_33.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_34.java" />
+        <option value="$PROJECT_DIR$/src/datastruct/sort/InnerSort.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_35.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_36.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_37.java" />
+        <option value="$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_38.java" />
       </list>
     </option>
   </component>
@@ -107,10 +171,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="1304" />
-    <option name="height" value="784" />
+    <option name="height" value="759" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -120,6 +182,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -143,6 +206,12 @@
               <item name="JianZhiOffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="JianZhiOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JianZhiOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JianZhiOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lx" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -153,7 +222,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -173,9 +241,9 @@
       <recent name="jianzhioffer.lx" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEAWorkSpace\JianZhiOffer\src\jianzhioffer\lx" />
       <recent name="E:\IDEAWorkSpace\JianZhiOffer\file" />
       <recent name="E:\IDEAWorkSpace\JianZhiOffer\lib" />
-      <recent name="E:\IDEAWorkSpace\JianZhiOffer\src\jianzhioffer\lx" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -190,17 +258,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JZ_Offer_22">
-    <configuration name="CallableThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastudy.test.CallableThreadTest" />
+  <component name="RunManager" selected="Application.InnerSort">
+    <configuration name="ByteDance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ByteDance" />
       <module name="JianZhiOffer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jianzhioffer.lx.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="InnerSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastruct.sort.InnerSort" />
@@ -213,8 +275,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="JZ_Offer_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhioffer.lx.JZ_Offer_22" />
+    <configuration name="JZ_Offer_30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhioffer.lx.JZ_Offer_30" />
       <module name="JianZhiOffer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -224,8 +286,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ThreadClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastudy.test.ThreadClassDemo" />
+    <configuration name="JZ_Offer_32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhioffer.lx.JZ_Offer_32" />
+      <module name="JianZhiOffer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jianzhioffer.lx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="JZ_Offer_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhioffer.lx.JZ_Offer_34" />
       <module name="JianZhiOffer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -237,17 +310,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastudy.test.test" />
-      <module name="JianZhiOffer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javastudy.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -288,19 +350,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ThreadClassDemo" />
-      <item itemvalue="Application.CallableThreadTest" />
-      <item itemvalue="Application.test" />
+      <item itemvalue="Application.JZ_Offer_30" />
+      <item itemvalue="Application.JZ_Offer_32" />
+      <item itemvalue="Application.ByteDance" />
+      <item itemvalue="Application.JZ_Offer_34" />
       <item itemvalue="Application.InnerSort" />
-      <item itemvalue="Application.JZ_Offer_22" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JZ_Offer_22" />
         <item itemvalue="Application.InnerSort" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.CallableThreadTest" />
-        <item itemvalue="Application.ThreadClassDemo" />
+        <item itemvalue="Application.JZ_Offer_34" />
+        <item itemvalue="Application.JZ_Offer_32" />
+        <item itemvalue="Application.ByteDance" />
+        <item itemvalue="Application.JZ_Offer_30" />
       </list>
     </recent_temporary>
   </component>
@@ -334,11 +396,34 @@
       <workItem from="1564997834682" duration="8024000" />
       <workItem from="1565083621885" duration="8067000" />
       <workItem from="1565266242996" duration="6351000" />
+      <workItem from="1565312486676" duration="1310000" />
+      <workItem from="1565314141282" duration="620000" />
+      <workItem from="1565353470154" duration="5386000" />
+      <workItem from="1565406934763" duration="1869000" />
+      <workItem from="1565447032825" duration="597000" />
+      <workItem from="1565679161742" duration="6630000" />
+      <workItem from="1565772252074" duration="7301000" />
+      <workItem from="1565866329557" duration="11682000" />
+      <workItem from="1565937268864" duration="649000" />
+      <workItem from="1565965916281" duration="1816000" />
+      <workItem from="1566041556742" duration="3981000" />
+      <workItem from="1566093659342" duration="15000" />
+      <workItem from="1566303883474" duration="4811000" />
+      <workItem from="1566387393142" duration="10369000" />
+      <workItem from="1566460818046" duration="9314000" />
+      <workItem from="1566563911326" duration="5912000" />
+      <workItem from="1566731116585" duration="9758000" />
+      <workItem from="1566822516546" duration="2833000" />
+      <workItem from="1566911608978" duration="1015000" />
+      <workItem from="1566957698914" duration="1488000" />
+      <workItem from="1567157021031" duration="5624000" />
+      <workItem from="1567321602850" duration="3804000" />
+      <workItem from="1567430982799" duration="2244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108452000" />
+    <option name="totallyTimeSpent" value="207480000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,10 +436,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32897604" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32824427" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
@@ -362,11 +447,11 @@
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49946696" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49946696" weight="0.2857143" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.29637527" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.13432837" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -374,14 +459,46 @@
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3991276" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32897604" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32824427" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32897604" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.12793177" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49946696" weight="0.3129771" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3991276" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50053304" side_tool="true" weight="0.3293348" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32897604" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32824427" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -404,7 +521,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="28" />
+      <option name="time" value="49" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -413,307 +530,10 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JianZhiOffer.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file/xxx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/JianZhiOffer/jianzhioffer/lx/JZ_Offer_8.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/launcher/LauncherHelper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="361" selection-start-line="361" selection-end-line="361" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Properties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="121" column="24" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="626" column="24" selection-start-line="626" selection-start-column="24" selection-end-line="626" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/test/test_peoperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="1" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/test/sda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/test/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="23" selection-start-line="10" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/fastjson-1.2.6.jar!/com/alibaba/fastjson/JSON.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="138" column="30" selection-start-line="138" selection-start-column="30" selection-end-line="138" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/test/TestCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="105" column="42" selection-start-line="105" selection-start-column="42" selection-end-line="105" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/test/Test_Swap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-514">
-          <caret line="401" column="28" selection-start-line="401" selection-start-column="28" selection-end-line="401" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="994">
-          <caret line="653" column="7" lean-forward="true" selection-start-line="653" selection-start-column="7" selection-end-line="653" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="66" column="23" lean-forward="true" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/test/GreetingClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/test/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/test/Serializable_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/net/SocketImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-896">
-          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/net/ServerSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="511" column="35" lean-forward="true" selection-start-line="511" selection-start-column="35" selection-end-line="511" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/test/GreetingServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/test/CaseTrans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JavaStudyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/test/ThreadClassDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/RunnableFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="47" column="56" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/FutureTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="118" column="24" lean-forward="true" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/test/CallableThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/Callable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" selection-start-line="10" selection-start-column="5" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_18.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="910">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/test/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -735,18 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#248#257#0" expanded="true" />
-            <element signature="e#375#385#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastruct/sort/InnerSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="205" lean-forward="true" selection-start-line="205" selection-end-line="205" />
         </state>
       </provider>
     </entry>
@@ -764,10 +572,312 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="25" selection-start-line="25" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_22.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="84" column="18" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="110" column="38" lean-forward="true" selection-start-line="110" selection-start-column="38" selection-end-line="110" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="106" column="48" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="73" column="26" lean-forward="true" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="59" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="143" column="39" selection-start-line="143" selection-start-column="39" selection-end-line="143" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javastudy/test/TestDefaultMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javastudy/test/Abstrict$Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javastudy/test/ParaTranTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/reflect/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2080">
+          <caret line="116" column="33" selection-start-line="116" selection-start-column="33" selection-end-line="116" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/reflect/Reflection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-624">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="260" column="27" selection-start-line="260" selection-start-column="27" selection-end-line="260" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javastudy/test/InnerClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="190" column="37" lean-forward="true" selection-start-line="190" selection-start-column="37" selection-end-line="190" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="302" column="7" lean-forward="true" selection-start-line="302" selection-start-column="7" selection-end-line="302" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javastudy/test/TestCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pufashangji/PuFaShangJi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="114" column="25" selection-start-line="114" selection-start-column="25" selection-end-line="114" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_27.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javastudy/test/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/javastudy/test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="139" column="57" selection-start-line="139" selection-start-column="57" selection-end-line="139" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="24" column="9" selection-start-line="15" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_30.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ByteDance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1059">
+          <caret line="574" column="40" selection-start-line="574" selection-start-column="29" selection-end-line="574" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-277">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastruct/sort/InnerSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="214" column="20" lean-forward="true" selection-start-line="214" selection-start-column="20" selection-end-line="214" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_36.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
-          <caret line="7" column="65" lean-forward="true" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhioffer/lx/JZ_Offer_38.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
